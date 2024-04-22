@@ -12,7 +12,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * Nome completo do professor xxxxxxxxxxxx
-* Nome completo do professor 2
+* Nome completo do professor yyyyyyyy
 
 ## Instruções de utilização
 
